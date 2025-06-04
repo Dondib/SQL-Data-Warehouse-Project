@@ -1,1 +1,68 @@
+General Product Script
+Product Overview
+Unlock the true potential of your business data with our Modern Data Warehouse solution, built on Microsoft SQL Server. Designed to streamline, clean, and transform raw business data into actionable insights, our solution employs the proven Bronze, Silver, and Gold layered architecture for ultimate reliability, scalability, and performance.
 
+How It Works
+1. Data Sources
+
+Seamlessly integrate data from multiple sources such as CRM, ERP, and flat files (CSV).
+
+Automated batch processing loads files from folders and prepares them for analysis.
+
+2. Bronze Layer: Raw Data Storage
+
+All incoming data is captured in its original state, ensuring a reliable, auditable source of truth.
+
+Key Features:
+
+Batch Processing
+
+Full Load (Truncate & Insert)
+
+No transformations—data is loaded as-is
+
+3. Silver Layer: Cleaned & Standardized Data
+
+Raw data is transformed into standardized, high-quality datasets.
+
+Key Features:
+
+Data cleaning, normalization, and standardization
+
+Addition of derived columns and enrichment processes
+
+Data is ready for further business logic
+
+4. Gold Layer: Business-Ready Data
+
+Data is integrated, aggregated, and structured for consumption by business tools.
+
+Key Features:
+
+Star schema, flat tables, and aggregated models
+
+Business rules and logic applied
+
+Exposed as SQL views—no physical data movement
+
+5. Data Consumption
+
+PowerBI, Tableau, and SQL analysis tools connect directly to the Gold layer for real-time, trusted insights.
+
+Ready for advanced analytics and machine learning workloads
+
+Benefits
+Data Consistency: Every step is automated and auditable for complete transparency.
+
+Flexibility: Add new data sources or modify transformation logic with ease.
+
+Scalability: Easily handle growth in data volume and user demand.
+
+Actionable Insights: Deliver timely, accurate data to decision-makers with no manual work.
+
+Ideal For
+Organizations seeking a robust, maintainable, and future-proof analytics environment
+
+Businesses looking to accelerate time-to-insight and empower teams with trustworthy data
+
+Powered by Dib Data — Your Partner in Data Excellence
