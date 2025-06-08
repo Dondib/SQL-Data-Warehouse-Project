@@ -1,3 +1,4 @@
+![Screenshot 2025-06-08 105755](https://github.com/user-attachments/assets/776c5b18-1b31-4147-b910-993d532e50ac)
 
 
 # Data Warehouse and Analytics Project
