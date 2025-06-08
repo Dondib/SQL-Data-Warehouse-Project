@@ -50,7 +50,7 @@ You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
 Hi there! I'm Don Dib—the Data, CRM & Logistics Mastermind.
-I'm a Senior Data Analyst specializing in data warehouses, business intelligence, CRM systems, and logistics analytics.
+I'm a Senior Data Analyst specializing in data warehouses, business intelligence, CRM systems, and Data Architecture and Automations .
 
 What makes me unique?
 I blend advanced Data Warehouse and Data analytics with real-world business experience, turning raw data into solutions that drive growth and efficiency. Whether it’s building dashboards, automating workflows, or designing robust databases, I help companies make smarter decisions—while keeping things fun!
