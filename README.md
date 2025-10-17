@@ -36,7 +36,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```plaintext
 /data        # Sample CSV data files
@@ -45,11 +45,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 /docs        # Documentation and business summary
 
 
-📝 License
+ License
 This project is licensed under the MIT License.
 You are free to use, modify, and share this project with proper attribution.
 
-🌟 About Me
+ About Me
 Hi there! I'm Don Dib—the Data, CRM & Logistics Mastermind.
 I'm a Senior Data Analyst specializing in data warehouses, business intelligence, CRM systems, and Data Architecture and Automations .
 
