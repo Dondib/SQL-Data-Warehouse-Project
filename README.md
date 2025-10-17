@@ -3,7 +3,7 @@
 
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project**! 🚀  
+Welcome to the **Data Warehouse and Analytics Project**! 
 This project demonstrates a full-stack data warehousing and analytics solution—from building the warehouse to generating actionable business insights. Designed as a portfolio project, it highlights best practices in data engineering and analytics.
 
 ---
